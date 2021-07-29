@@ -108,3 +108,4 @@ See that it got deleted:
 - When doing this, my MySQL Workbench application did not like showing the value
    for "id" in my records. I was able to view it with the mysql cli
    without a problem. I'm still unsure why.
+- Robin Moffatt has put together a very comprehensive example here https://rmoff.net/2021/03/12/kafka-connect-jdbc-sink-deep-dive-working-with-primary-keys/ 
